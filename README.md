@@ -2,6 +2,8 @@
 
 A Python-based automation tool that generates a print-ready, A4 PDF of Chronodex daily planners for any given date range. It uses LaTeX and TikZ to dynamically render the vector graphics, applying custom typography, color palettes, and print-ready cutlines.
 
+![Chronodex Preview](preview.png)
+
 ## Features
 * **Dynamic Date Generation:** Automatically loops through a given start and end date.
 * **Print-Ready Grid Layout:** Outputs a perfect 2x3 A4 grid optimized for physical trimming.
