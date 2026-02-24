@@ -1,6 +1,6 @@
 # Chronodex Planner Generator
 
-![Chronodex Preview](preview.png)
+<img src="Preview.png" alt="Chronodex Preview" width="600">
 
 A Python-based automation tool that generates a print-ready, A4 PDF of Chronodex daily planners for any given date range. It uses LaTeX and TikZ to dynamically render the vector graphics, applying custom typography, color palettes, and print-ready cutlines.
 
