@@ -22,7 +22,7 @@ To run this script locally, you must have Python 3 installed, along with a worki
 ## Installation
 1. Clone the repository:
 
-   git clone [https://github.com/yourusername/chronodex-generator.git](https://github.com/yourusername/chronodex-generator.git)
+   git clone [https://github.com/yourusername/chronodex-generator.git](https://github.com/yourusername/chronodex-generator.git) <br>
    cd chronodex-generator
 2. (Optional) Install Python requirements:
    ```bash
