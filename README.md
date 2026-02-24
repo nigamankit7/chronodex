@@ -39,3 +39,14 @@ FILE_NAME  = "Chronodex_March_2026"
 Run the script:
    ```bash
     python chronodex_generator.py
+
+
+## 🏆 Credits & Acknowledgements
+
+The **Chronodex** visual time-tracking system is the brilliant original creation of **Patrick Ng** (Scription). 
+
+This project is an independent, open-source Python tool designed to programmatically generate layouts based on his core concept to help people with their personal productivity. If you love this system, please check out his original work, tutorials, and printable diaries at his official blog: [Scription](http://scription.typepad.com/).
+
+**License Information:**
+* **Code:** The Python automation script and LaTeX rendering logic in this repository are licensed under the [MIT License](LICENSE).
+* **Concept:** The Chronodex visual concept and design language remain the intellectual property of Patrick Ng, and these generated files should be used for personal, non-commercial use in accordance with his original release.
