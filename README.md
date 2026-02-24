@@ -36,10 +36,8 @@ START_DATE = "2026-03-01"
 END_DATE   = "2026-03-31"
 FILE_NAME  = "Chronodex_March_2026"
 
-Run the script:
-   ```bash
+Run the script:<br>
     python chronodex_generator.py
-
 
 ## 🏆 Credits & Acknowledgements
 
