@@ -31,13 +31,15 @@ To run this script locally, you must have Python 3 installed, along with a worki
 
 ## Usage
 Open chronodex_generator.py and modify the configuration constants at the top of the file:
-
+```
 START_DATE = "2026-03-01"
 END_DATE   = "2026-03-31"
 FILE_NAME  = "Chronodex_March_2026"
-
+```
 Run the script:<br>
+```
     python chronodex_generator.py
+```
 
 ## 🏆 Credits & Acknowledgements
 
@@ -46,5 +48,5 @@ The **Chronodex** visual time-tracking system is the brilliant original creation
 This project is an independent, open-source Python tool designed to programmatically generate layouts based on his core concept to help people with their personal productivity. If you love this system, please check out his original work, tutorials, and printable diaries at his official blog: [Scription](http://scription.typepad.com/).
 
 **License Information:**
-* **Code:** The Python automation script and LaTeX rendering logic in this repository are licensed under the [MIT License](LICENSE).
+* **Code:** The Python automation script and LaTeX rendering logic in this repository are licensed under the [GNU General Public License v3.0](LICENSE).
 * **Concept:** The Chronodex visual concept and design language remain the intellectual property of Patrick Ng, and these generated files should be used for personal, non-commercial use in accordance with his original release.
