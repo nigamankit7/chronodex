@@ -1,5 +1,7 @@
 # Chronodex Planner Generator
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nigamankit7/chronodex/blob/main/Chronodex_Planner_Generator.ipynb)
+
 <img src="Preview.png" alt="Chronodex Preview" width="600">
 
 A Python-based automation tool that generates a print-ready, A4 PDF of Chronodex daily planners for any given date range. It uses LaTeX and TikZ to dynamically render the vector graphics, applying custom typography, color palettes, and print-ready cutlines.
